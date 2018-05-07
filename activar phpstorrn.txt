@@ -12,3 +12,12 @@ that servers not working with 2018.1 version.
 
 
 siii: http://80.211.190.88:1027
+
+Server	Status
+1 http://jetbrains.tools/
+2	http://nodde.ru:1027	
+3	http://80.211.190.88:1027	
+4	http://www.heatsam.com:1017	
+5	http://idea.singee77.com/	
+6	http://www.0-php.com:1017
+
